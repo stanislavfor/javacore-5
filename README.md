@@ -41,13 +41,20 @@
 ![UtilityBackup](https://i.ibb.co/n7k68vX/task-1-11.jpg)
 
 <br>
-- После выполнения программы, создается файл с расширением .zip<br>
+- После выполнения программы, создается файл с расширением .zip <br>
+
 [файл backup](https://i.ibb.co/0YPFSGR/task-1.jpg)
+
 <br>
+
 ![файл backup](https://i.ibb.co/0YPFSGR/task-1.jpg)
+
 <br>
 - В консоли выводится соответсвующее сообщение, что задача выполнена:<br>
-[сообщение в консоли](https://i.ibb.co/KWc4j6d/task-1-1.jpg)<br><br>
+
+[сообщение в консоли](https://i.ibb.co/KWc4j6d/task-1-1.jpg)
+<br><br>
+
 ![сообщение в консоли](https://i.ibb.co/KWc4j6d/task-1-1.jpg)
 
 <br>
