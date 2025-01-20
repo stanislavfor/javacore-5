@@ -50,11 +50,12 @@
 ![файл backup](https://i.ibb.co/0YPFSGR/task-1.jpg)
 
 <br>
+
 - В консоли выводится соответсвующее сообщение, что задача выполнена:<br>
 
 [сообщение в консоли](https://i.ibb.co/KWc4j6d/task-1-1.jpg)
-<br><br>
 
+<br><br>
 ![сообщение в консоли](https://i.ibb.co/KWc4j6d/task-1-1.jpg)
 
 <br>
